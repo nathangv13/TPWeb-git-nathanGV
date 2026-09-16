@@ -9,3 +9,5 @@ Cette cyberattaque est considérée comme le plus grand piratage à rançon de l
 
 ##  les victimes :
 >Parmi les plus importantes organisations touchées par cette attaque, on retrouve notamment les entreprises Vodafone, FedEx, Renault, Telefónica, le National Health Service, le Centre hospitalier universitaire de Liège, le ministère de l'Intérieur russe ou encore la Deutsche Bahn
+
+Ce logiciel malveillant utilise la faille de sécurité EternalBlue exploitée par la National Security Agency (NSA) et volée par les Shadow Brokers, un groupe de pirates informatiques. Cette faille a été corrigée depuis le mois de mars 2017 par Microsoft via le bulletin MS17-010 dans le cadre de son Patch Tuesday.
