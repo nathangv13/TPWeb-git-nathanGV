@@ -1,5 +1,5 @@
-# TPWeb-git-nathanGV
- WannaCry
+# TPWeb-git-nathanGV :  WannaCry
+
 
 WannaCry, aussi connu sous le nom WannaCrypt, WanaCrypt0r 2.0 ou similaires, est un logiciel malveillant de type rançongiciel auto-répliquant
 
