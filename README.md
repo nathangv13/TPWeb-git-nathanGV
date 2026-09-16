@@ -7,5 +7,5 @@ En mai 2017, ce ransomware est utilisé lors d'une cyberattaque mondiale massive
 
 Cette cyberattaque est considérée comme le plus grand piratage à rançon de l'histoire d'Internet, l'office européen des polices Europol la qualifiant « d'un niveau sans précédent » et ajoutant « qu'il ne faut en aucun cas payer la rançon ».
 
-# les victimes :
+##  les victimes :
 >Parmi les plus importantes organisations touchées par cette attaque, on retrouve notamment les entreprises Vodafone, FedEx, Renault, Telefónica, le National Health Service, le Centre hospitalier universitaire de Liège, le ministère de l'Intérieur russe ou encore la Deutsche Bahn
